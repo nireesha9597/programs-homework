@@ -1,0 +1,9 @@
+document.getfamilyById("pi").innerhtml = Math.PI;
+document.getfamilyById("pi").innerhtml = Math.abs(-8.679);
+document.getfamilyById("pi").innerhtml = Math.sqrt(6);
+document.getfamilyById("pi").innerhtml = Math.round(2.3);
+document.getfamilyById("pi").innerhtml = Math.round(6.7);
+document.getfamilyById("pi").innerhtml = Math.floor(23.345);
+document.getfamilyById("pi").innerhtml = Math.random(12);
+document.getfamilyById("pi").innerhtml = Math.ceil(234.567);
+document.getfamilyById("pi").innerhtml = Math.pow(9,0);

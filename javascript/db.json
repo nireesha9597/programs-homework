@@ -1,0 +1,17 @@
+[
+    {
+    "fname": "nireesha",
+    "age" : 23,
+    "gender" : "female",
+    "kids" : 2
+  
+
+   },
+
+   {
+    "fname": "keerthana",
+    "age" : 85,
+    "gender" : "female",
+    "kids" : 26
+    }
+]
